@@ -1,0 +1,144 @@
+.about-me {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.resume-container {
+    margin: 50px 100px 100px 100px;
+    background-color: #eeeeee;
+}
+
+.resume {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#profile-pic {
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.education-line {
+    text-align: left;
+    overflow: hidden;
+}
+
+.education {
+    display: inline-block;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+.education1 {
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+
+#schoolName {
+    font-weight: bold;
+    text-align: left;
+}
+#schoolLoc {
+    float: right;
+}
+#degree {
+    text-align: left;
+}
+#educationDates {
+    float: right;
+
+}
+
+#schoolName1 {
+    font-weight: bold;
+    text-align: left;
+}
+#schoolLoc1 {
+    float: right;
+}
+#degree1 {
+    text-align: left;
+}
+
+#educationDates1 {
+    float: right;
+}
+
+.experience-line {
+    text-align: left;
+    overflow: hidden;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+.experience {
+    display: inline-block;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#companyName {
+    font-weight: bold;
+    text-align: left;
+}
+#companyLoc {
+    float: right;
+}
+
+#position {
+    font-style: italic;
+    font-weight: bold;
+    text-align: left;
+}
+#workDates {
+    float: right;
+}
+
+#companyName1 {
+    font-weight: bold;
+    text-align: left;
+}
+#companyLoc1 {
+    float: right;
+}
+
+#position1 {
+    font-style: italic;
+    font-weight: bold;
+    text-align: left;
+}
+#workDates1{
+    float: right;
+}
+
+.skills {
+    text-align: left;
+}
+
+.skills p {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+}
